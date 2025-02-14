@@ -1,3 +1,4 @@
 # Computer Vision
 
-Basic implementation of deep learning network with convolutional layers and max-pooling
+Basic implementation of deep learning network with convolutional layers and max-pooling. 
+Recently, I've been getting into pytorch, and I was able to boost performance by 80%
